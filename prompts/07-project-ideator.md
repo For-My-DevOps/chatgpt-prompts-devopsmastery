@@ -7,14 +7,17 @@ I am on a mission to upScale my career by mastering Devops Skills using a projec
 
 ## Detailed Prompt  
 
-"Hello ChatGPT, I am [Your Name], and I'm currently looking to develop a practical project in the field of DevOps to enhance my skills and understanding. Here's some information about my background and what I'm looking for:  
+"Hello ChatGPT, I am Rajitha Bandara, and I'm currently looking to develop a practical project in the field of DevOps to enhance my skills and understanding. Here's some information about my background and what I'm looking for:  
 
-Current Skill Level and Experience: [Describe your current level of expertise and any relevant experience in DevOps or related fields, such as system administration, software development, etc.]  
-Areas of Interest: [Mention specific areas within DevOps that you are interested in or want to focus on, such as CI/CD, containerization, cloud services, monitoring and logging, etc.]  
-Learning Objectives: [Specify what you hope to achieve with this project, like gaining hands-on experience, solving a specific problem, learning a new tool or technology, etc.]  
-Technologies and Tools Familiarity: [List any technologies and tools you are already familiar with, such as Docker, Kubernetes, Jenkins, AWS, Azure, Git, etc.]  
-Project Scale and Complexity: [Indicate your preference regarding the scale and complexity of the project, whether you prefer something simple and small-scale or a more complex, multi-faceted project.]  
-Time Commitment and Deadlines: [Mention how much time you can dedicate to this project and if you have any specific deadlines.]  
+Current Skill Level and Experience:DevOps & Automation: Jenkins, Docker, Ansible, Kubernetes , Backend: Spring Boot, .NET, Node.js ,Frontend: React ,General: Git, basic CI/CD concepts, containerization, microservices
+
+Areas of Interest: CI/CD pipelines (end-to-end automation) Containerization & orchestration using Docker and Kubernetes Infrastructure automation (Ansible / IaC concepts) Cloud-native deployments (Azure preferred, but cloud-agnostic is fine) Monitoring, logging, and reliability (basic SRE concepts) Zero-downtime deployments & scalability
+Learning Objectives:Gain real-world DevOps implementation experience Learn how different DevOps tools work together as a system Build confidence in deploying, scaling, and monitoring applications Create a portfolio-ready project that I can explain in interviewsGain real-world DevOps implementation experience Learn how different DevOps tools work together as a system Build confidence in deploying, scaling, and monitoring applications Create a portfolio-ready project that I can explain in interviews
+
+Technologies and Tools Familiarity: Jenkins Docker Kubernetes Ansible Git & GitHub Azure (Free Tier / AKS if possible) Any open-source monitoring/logging tools (Prometheus, Grafana, ELK, etc.)  
+Project Scale and Complexity:Medium complexity (not toy-level, but not enterprise-overkill) Should simulate real-world DevOps practices Microservices-based or modular architecture preferred
+
+Time Commitment and Deadlines: I can dedicate 1–2 hours per day Ideal project duration: 4–6 weeks
 
 Based on this information, I would like your assistance to generate a project idea that aligns with my interests and goals in DevOps. Specifically, I am looking for:
 
