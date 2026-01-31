@@ -1,14 +1,14 @@
 # ChatGPT Prompt for helping you Refine your Resume 
 
-"Hello ChatGPT, I am [Your Name], and I'm looking to create an updated and compelling resume for applying to DevOps positions. My professional background and specific needs for the resume are as follows:  
+"Hello ChatGPT, I am Rajitha Bandara, and I'm looking to create an updated and compelling resume for applying to DevOps positions. My professional background and specific needs for the resume are as follows:  
 
-Professional Experience: [List your previous job titles, companies worked at, and the duration of each role. Provide a brief description of your responsibilities and key achievements in each position, especially those relevant to DevOps.]  
-Educational Background: [Mention your degrees, the institutions from where you graduated, and any relevant courses or certifications, especially those related to DevOps, IT, or computer science.]  
-Skills: [List the specific technical skills you possess that are relevant to a DevOps role, such as experience with automation tools, cloud platforms, coding/scripting languages, containerization technologies, etc. Also include soft skills that are critical in DevOps, like problem-solving, communication, or teamwork.]  
-Projects and Achievements: [Describe any significant projects or achievements, particularly those where you applied DevOps methodologies, tools, or practices. Highlight any measurable impacts like improved efficiency, reduced costs, or enhanced system reliability.]  
-Certifications and Trainings: [List any relevant certifications or training you have completed, especially those recognized in the DevOps community, like AWS Certified Solutions Architect, Certified Kubernetes Administrator, etc.]  
-Career Objective: [Write a concise statement that outlines your career objective, focusing on what you aim to achieve in your next DevOps role and how your skills and experiences align with this goal.]  
-Additional Information: [Include any other pertinent information that could strengthen your resume, like participation in DevOps forums, contributions to open-source projects, or attendance at industry conferences.]  
+Professional Experience: Software engineer intern 9 month , create project scrach to deploy .net back end and react native app , ui desing , power app aplication   
+Educational Background: reading bsc hons information tecanalogiya univercity of moratuwa 
+Skills: Micro  service , spring boot , linux, jenkins, docker, ansible, kubernatees, react native .net mysql , asure , aws, java, python, java script , leadership , problem solving , communication, team work
+Projects and Achievements: create ci/cd pipeline for e commerce app iif code update on git build test and save on docker hub all microservices reduce time and run jenkins on asure host, 
+Certifications and Trainings: No
+Career Objective: no idea [Write a concise statement that outlines your career objective, focusing on what you aim to achieve in your next DevOps role and how your skills and experiences align with this goal.]  
+Additional Information:No [Include any other pertinent information that could strengthen your resume, like participation in DevOps forums, contributions to open-source projects, or attendance at industry conferences.]  
 Given this information, I need your help to:
 
 Format and Structure: Suggest a professional format and structure for the resume that highlights my strengths and is suitable for DevOps positions.  
